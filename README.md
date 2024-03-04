@@ -22,8 +22,7 @@ To get started with MY-OWN-BROWSER, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/TECHYSDX/MY-OWN-BROWSER.git
-   ```
+   git clone https://github.com/SDWhiteHatExpert/MY-OWN-PRIVATE-BROWSER.git
 
 2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using:
    ```
